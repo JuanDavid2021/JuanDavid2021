@@ -16,6 +16,9 @@ Soy una persona apasionada por la tecnología y el desarrollo web, capacidad de 
 -Express
 -Postgress
 -GitHub
+
+![image](https://user-images.githubusercontent.com/87767241/159184740-dc5af015-cbee-4dec-bf27-c380571f51bb.png)
+
 ### ¿Mis proyectos? 💻
 
 ##### 👾 Pokemon App
