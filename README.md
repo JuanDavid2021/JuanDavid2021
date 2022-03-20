@@ -22,5 +22,5 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 - Visibilizar los detalles de los Pokemones
 
 <div style="display: flex">
-<img width=30.3% src=hhttps://user-images.githubusercontent.com/87767241/159184769-361b8f13-5978-4f0c-993d-1f751722a4b2.png>
+<img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184769-361b8f13-5978-4f0c-993d-1f751722a4b2.png>
 <div/>
