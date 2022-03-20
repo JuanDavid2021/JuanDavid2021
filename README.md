@@ -1,5 +1,5 @@
 
-# Hola! 👋 Mi nombre es Juan David Rodriguez 😄
+# Hola! 👋 Mi nombre es Juan David Rodriguez �
 
 Desarrollador Full Stack e Ingeniero Industrial en etapa final del Bootcamp SoyHenry. 
 
