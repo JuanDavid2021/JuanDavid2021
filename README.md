@@ -8,14 +8,6 @@ Desarrollador Full Stack e Ingeniero Industrial en etapa final del Bootcamp SoyH
 Soy una persona apasionada por la tecnología y el desarrollo web, capacidad de adaptarme en los entornos de equipos de trabajo y perseverante día a día para actualizar, reforzar y aumentar los conocimientos adquiridos.
 
 ### Tech Skills 🏆
--Javascript
--CSS
--HTML
--React
--Node.js
--Express
--Postgress
--GitHub
 
 ![image](https://user-images.githubusercontent.com/87767241/159184740-dc5af015-cbee-4dec-bf27-c380571f51bb.png)
 
@@ -29,4 +21,6 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 - Creación de un nuevo Pokemon a través de un formulario controlado
 - Visibilizar los detalles de los Pokemones
 
-
+<div style="display: flex">
+<img width=30.3% src=hhttps://user-images.githubusercontent.com/87767241/159184769-361b8f13-5978-4f0c-993d-1f751722a4b2.png>
+<div/>
