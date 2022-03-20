@@ -1,13 +1,21 @@
 
 # Hola! 👋 Mi nombre es Juan David Rodriguez �
 
-Desarrollador Full Stack e Ingeniero Industrial en etapa final del Bootcamp SoyHenry. 
+Desarrollador Full Stack e Ingeniero Industrial en etapa final del Bootcamp SoyHenry. Experiencia en proyectos académicos y como asistente de enseñanza, liderando un grupo de estudiantes mientras cursan el Bootcamp.
 
 ### ¿Qué me destaca? 🏅
 
 Soy una persona apasionada por la tecnología y el desarrollo web, capacidad de adaptarme en los entornos de equipos de trabajo y perseverante día a día para actualizar, reforzar y aumentar los conocimientos adquiridos.
-### Tech Skills 🏆
 
+### Tech Skills 🏆
+-Javascript
+-CSS
+-HTML
+-React
+-Node.js
+-Express
+-Postgress
+-GitHub
 ### ¿Mis proyectos? 💻
 
 ##### 👾 Pokemon App
