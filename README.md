@@ -1,7 +1,7 @@
 
 
 
-# Hola! 👋 Mi nombre es Juan David Rodriguez <img width=100vw src=https://user-images.githubusercontent.com/87767241/159364948-51c1fb7b-1d13-4910-8d08-57c8482902de.jpeg>
+# Hola! 👋 Mi nombre es Juan David Rodriguez <img border-radius=50% src=https://user-images.githubusercontent.com/87767241/159364948-51c1fb7b-1d13-4910-8d08-57c8482902de.jpeg>
 
 Desarrollador Full Stack e Ingeniero Industrial en etapa final del Bootcamp SoyHenry. Experiencia en proyectos académicos y como asistente de enseñanza, liderando un grupo de estudiantes mientras cursan el Bootcamp.
 
