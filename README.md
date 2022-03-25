@@ -34,4 +34,4 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
  
 ### Contacto 📫
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandavidrodriguezlopez/)](https://www.linkedin.com/in/juandavidrodriguezlopez/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fegll87@gmail.com)](mailto:davidyk_15@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fegll87@gmail.com)](mailto:juandavidasesor@gmail.com)
