@@ -27,11 +27,6 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
   <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184877-9f853ac4-6be9-450e-8a56-45580d6f603d.png>
 <div/>
 
- ### Contacto:
-  
-  inkedin.com/in/juandavidrodriguezlopez
-  davidyk_15@hotmail.com
- 
 ### Contacto 📫
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandavidrodriguezlopez/)](https://www.linkedin.com/in/juandavidrodriguezlopez/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fegll87@gmail.com)](mailto:juandavidasesor@gmail.com)
