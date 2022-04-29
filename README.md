@@ -40,8 +40,9 @@ Desarrollo de un SPA (Single Page Application) utilizando React, Redux para el F
     <div style="display: flex">
 <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165978927-41d93578-bb3a-4aa6-8a35-b23a577baf47.jpg>
   <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165978930-b1cdf5f8-a9b2-4af7-a076-1c6aae5b87aa.jpg>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976761-9ca6f2da-3b31-4e59-9deb-c763869bc403.png>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165979542-314679ea-b672-400f-94cd-d9f2de6048ca.jpg>
 <div/>
+      
       
 Link del deploy https://beefshop.vercel.app/
   
