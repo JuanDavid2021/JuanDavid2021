@@ -45,7 +45,7 @@ Desarrollo de un SPA (Single Page Application) utilizando React, Redux para el F
 <div>      
  <br>     
       
-###Link del deploy https://beefshop.vercel.app/
+### Link del deploy https://beefshop.vercel.app/
   
 ### Contacto 📫
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juandavidrodriguezlopez/)](https://www.linkedin.com/in/juandavidrodriguezlopez/)
