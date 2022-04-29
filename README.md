@@ -36,12 +36,6 @@ Desarrollo de un SPA (Single Page Application) utilizando React, Redux para el F
 - Creación de un nuevos productos a través de un formulario controlado y ver el detalle del mismo.
 - Pasarela de pagos com mercadopago.
 - Entre otras funciones.  
-
-  <div style="display: flex">
-<img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976244-f444c786-40d9-4351-8461-1877c5cd9d73.png>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184861-e4e5eab7-e4a3-4763-bc5a-010c15a67215.png>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184877-9f853ac4-6be9-450e-8a56-45580d6f603d.png>
-<div/>
   
 Link del deploy https://beefshop.vercel.app/
   
