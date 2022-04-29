@@ -23,8 +23,8 @@ Desarrollo de un SPA (Single Page Application) utilizando React y Redux para el 
 
 <div style="display: flex">
 <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184769-361b8f13-5978-4f0c-993d-1f751722a4b2.png>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184861-e4e5eab7-e4a3-4763-bc5a-010c15a67215.png>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184877-9f853ac4-6be9-450e-8a56-45580d6f603d.png>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976756-582bbb41-bb62-4725-b994-f03f2d5e61b2.png>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976761-9ca6f2da-3b31-4e59-9deb-c763869bc403.png>
 <div/>
   
   ##### 👾 Beefshop App - Proyecto grupal
@@ -37,6 +37,12 @@ Desarrollo de un SPA (Single Page Application) utilizando React, Redux para el F
 - Pasarela de pagos com mercadopago.
 - Entre otras funciones.  
 
+  <div style="display: flex">
+<img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976244-f444c786-40d9-4351-8461-1877c5cd9d73.png>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184861-e4e5eab7-e4a3-4763-bc5a-010c15a67215.png>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/159184877-9f853ac4-6be9-450e-8a56-45580d6f603d.png>
+<div/>
+  
 Link del deploy https://beefshop.vercel.app/
   
 ### Contacto 📫
