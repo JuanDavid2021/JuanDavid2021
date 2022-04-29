@@ -38,8 +38,8 @@ Desarrollo de un SPA (Single Page Application) utilizando React, Redux para el F
 - Entre otras funciones.  
   
     <div style="display: flex">
-<img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976244-f444c786-40d9-4351-8461-1877c5cd9d73.png>
-  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976756-582bbb41-bb62-4725-b994-f03f2d5e61b2.png>
+<img width=30.3% src=https://user-images.githubusercontent.com/87767241/165978927-41d93578-bb3a-4aa6-8a35-b23a577baf47.jpg>
+  <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165978930-b1cdf5f8-a9b2-4af7-a076-1c6aae5b87aa.jpg>
   <img width=30.3% src=https://user-images.githubusercontent.com/87767241/165976761-9ca6f2da-3b31-4e59-9deb-c763869bc403.png>
 <div/>
       
