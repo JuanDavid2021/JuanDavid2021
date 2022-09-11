@@ -8,8 +8,7 @@ Desarrollador Full Stack e Ingeniero Industrial graduado del Bootcamp SoyHenry. 
 Soy una persona apasionada por la tecnología y el desarrollo web, capacidad de adaptarme en los entornos de equipos de trabajo y perseverante día a día para actualizar, reforzar y aumentar los conocimientos adquiridos.
 
 ### Tech Skills 🏆
-
-![image](https://user-images.githubusercontent.com/87767241/159184740-dc5af015-cbee-4dec-bf27-c380571f51bb.png)
+![stack](https://user-images.githubusercontent.com/87767241/189552959-b493ee5b-7233-4185-b503-167ee6e4614d.png)
 
 ### ¿Mis proyectos? 💻
 
